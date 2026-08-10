@@ -17,4 +17,6 @@ font-family: Arial, Helvetica, sans-serif;
 
 main {
 width: min(90%, 700px);
+  margin: 0 auto;
+  text-align: center;
 }
